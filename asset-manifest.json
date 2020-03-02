@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apply-sparcs/static/css/main.6908917a.chunk.css",
+    "main.js": "/apply-sparcs/static/js/main.30e3782d.chunk.js",
+    "main.js.map": "/apply-sparcs/static/js/main.30e3782d.chunk.js.map",
+    "runtime-main.js": "/apply-sparcs/static/js/runtime-main.f6a8dec6.js",
+    "runtime-main.js.map": "/apply-sparcs/static/js/runtime-main.f6a8dec6.js.map",
+    "static/js/2.90ed6d0b.chunk.js": "/apply-sparcs/static/js/2.90ed6d0b.chunk.js",
+    "static/js/2.90ed6d0b.chunk.js.map": "/apply-sparcs/static/js/2.90ed6d0b.chunk.js.map",
+    "index.html": "/apply-sparcs/index.html",
+    "precache-manifest.328ff89747f49ea07045818d84211a7f.js": "/apply-sparcs/precache-manifest.328ff89747f49ea07045818d84211a7f.js",
+    "service-worker.js": "/apply-sparcs/service-worker.js",
+    "static/css/main.6908917a.chunk.css.map": "/apply-sparcs/static/css/main.6908917a.chunk.css.map",
+    "static/js/2.90ed6d0b.chunk.js.LICENSE.txt": "/apply-sparcs/static/js/2.90ed6d0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a8dec6.js",
+    "static/js/2.90ed6d0b.chunk.js",
+    "static/css/main.6908917a.chunk.css",
+    "static/js/main.30e3782d.chunk.js"
+  ]
+}
